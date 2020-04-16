@@ -11,10 +11,10 @@ public class AlbumManager {
         AlbumRepository rep2 = new AlbumRepository();
         artist=rep.findById(1);
         System.out.println(artist.getName());
-       /* List<Album> lista;
+        List<Album> lista;
         lista= rep2.findByArtist(2);
         for(Album a : lista){
             System.out.println(a.getName());
-        }*/
+        }
     }
 }
