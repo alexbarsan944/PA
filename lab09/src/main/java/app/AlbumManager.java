@@ -16,5 +16,6 @@ public class AlbumManager {
         for(Album a : lista){
             System.out.println(a.getName());
         }
+		
     }
 }
