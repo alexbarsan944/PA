@@ -3,7 +3,6 @@ import com.github.javafaker.Faker;
 import java.sql.*;
 import java.util.Random;
 
-
 public class Main {
     private static int getRandomNumberInRange(int min, int max) {
 
