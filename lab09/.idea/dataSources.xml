@@ -7,5 +7,45 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/musicalbums</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="MusicAlbumsPU/OpenJPA" uuid="dce0275e-58cb-408a-996f-05e35f3a442d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>OpenJPA
+
+C:/Users/Alex/Documents/GitHub/PA/lab09/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/musicalbums</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MusicAlbumsPU/Hibernate" uuid="d2b7e0b0-112b-41d2-882d-3e2b635c4b44">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/Alex/Documents/GitHub/PA/lab09/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/musicalbums</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MusicAlbumsPU/TopLink" uuid="a28c78ff-6501-4e1f-8211-b87a41184470">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>TopLink
+
+C:/Users/Alex/Documents/GitHub/PA/lab09/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/musicalbums</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MusicAlbumsPU/EclipseLink" uuid="7d0ca08f-c826-4fe8-b363-18f698c67062">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>EclipseLink
+
+C:/Users/Alex/Documents/GitHub/PA/lab09/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/musicalbums</jdbc-url>
+    </data-source>
   </component>
 </project>

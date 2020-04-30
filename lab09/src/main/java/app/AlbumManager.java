@@ -1,8 +1,11 @@
 package app;
 
+import entity.Album;
 import entity.Artist;
 import repo.AlbumRepository;
 import repo.ArtistRepository;
+
+import java.util.List;
 
 public class AlbumManager {
     public static void main(String[] args) {

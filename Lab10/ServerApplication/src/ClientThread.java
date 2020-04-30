@@ -13,6 +13,7 @@ class ClientThread extends Thread {
             /** READ */
             BufferedReader in = new BufferedReader(
                     new InputStreamReader(socket.getInputStream()));
+
             PrintWriter out = new PrintWriter(socket.getOutputStream());
 
             String request = in.readLine();
