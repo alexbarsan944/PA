@@ -1,0 +1,7 @@
+nullPlayer1{ 0 0}
+Player2{ 9 9}
+Player1{ 1 1}
+Player2{ 8 8}
+Player1{ 2 2}
+Player2{ 7 7}
+Player1{ 3 3}
