@@ -44,8 +44,8 @@ public class PlayerController {
 
     @DeleteMapping("/players/{id}")
     public boolean delete(@PathVariable String id){
-        int blogId = Integer.parseInt(id);
-        playerRepo.deleteById(blogId);
+        int PlayerID = Integer.parseInt(id);
+        playerRepo.deleteById(PlayerID);
         return true;
     }
 }
