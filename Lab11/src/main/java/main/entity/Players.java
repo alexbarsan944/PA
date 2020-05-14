@@ -1,6 +1,4 @@
-package main;
-
-import org.springframework.beans.factory.annotation.Autowired;
+package main.entity;
 
 import javax.persistence.Basic;
 import javax.persistence.Column;
@@ -10,8 +8,6 @@ import java.util.Objects;
 
 @Entity
 public class Players {
-    @Autowired
-    private PlayerRepo playerRepo;
 
     private int id;
     private String nume;
@@ -34,7 +30,7 @@ public class Players {
 
     public void setNume(String nume) {
         this.nume = nume;
-     }
+    }
 
     @Override
     public boolean equals(Object o) {
