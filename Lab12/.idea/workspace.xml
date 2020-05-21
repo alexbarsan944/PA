@@ -19,34 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a72bec5-8de2-485b-924a-001225dd8bb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lab11/src/main/java/main/controller/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab11/src/main/java/main/entity/Games.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab11/src/main/java/main/exceptions/ErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab11/src/main/java/main/exceptions/ExceptionAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab11/src/main/java/main/exceptions/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab11/src/main/java/main/repo/GameRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab12/ControlPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab12/DesignPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab12/MainFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab12/Mouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onClick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab11/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab11/src/main/java/main/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab11/src/main/java/main/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11/src/main/java/main/controller/PlayerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab11/src/main/java/main/PlayerRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11/src/main/java/main/repo/PlayerRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab11/src/main/java/main/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11/src/main/java/main/entity/Players.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab11/src/main/java/main/PlayersApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11/src/main/java/main/PlayersApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab11/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab11/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="5a72bec5-8de2-485b-924a-001225dd8bb1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -102,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589475330690</updated>
       <workItem from="1589475333860" duration="5760000" />
-      <workItem from="1589485812444" duration="110000" />
+      <workItem from="1589485812444" duration="709000" />
     </task>
     <servers />
   </component>

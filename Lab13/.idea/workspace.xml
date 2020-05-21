@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc5d5be9-3e9c-41a1-b9a1-4dba34a3971b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/LocaleExplore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DisplayLocales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SetLocale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/Messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/Messages_ro.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cDnIuXUfUbsnDNSNNfXtyZKlnt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LocaleExplore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.LocaleExplore" />
+      <module name="Lab13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LocaleExplore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc5d5be9-3e9c-41a1-b9a1-4dba34a3971b" name="Default Changelist" comment="" />
+      <created>1590071954429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590071954429</updated>
+      <workItem from="1590071957051" duration="5736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590077132102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1590077132102" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1590080543611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590080543611" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1590080543611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590080543611" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1590080543611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590080543611" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1590080543611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590080543611" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1590076859698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590076859698" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1590076859697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590076859697" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1590076859697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590076859697" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1590076859698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590076859698" />
+  </component>
+</project>
