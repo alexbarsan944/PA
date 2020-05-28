@@ -3,19 +3,12 @@ package com;
 import java.util.Locale;
 import java.util.ResourceBundle;
 
-public class SetLocale   {
-    public SetLocale(Locale l)
-    {
+public class SetLocale{
+    public SetLocale(String language){
         String baseName = "Messages";
-        ResourceBundle messages =
-                ResourceBundle.getBundle(baseName, l);
-        System.out.println(messages.getString("locale.set"));
-    }
-    public SetLocale(String limba) {
-        Locale.setDefault(Locale.forLanguageTag(limba));
-        String baseName = "Messages";
-        ResourceBundle messages =
-                ResourceBundle.getBundle(baseName, Locale.getDefault());
+        Locale.setDefault(Locale.forLanguageTag(language));
+        Locale locale = Locale.getDefault();
+        ResourceBundle messages =ResourceBundle.getBundle(baseName, locale);
         System.out.println(messages.getString("locale.set"));
     }
 }

@@ -14,7 +14,8 @@ import java.time.format.FormatStyle;
 import java.util.*;
 
 public class Info {
-    public void printInfo(Locale locale) {
+    public Info() {
+        Locale locale = Locale.getDefault();
         LocalDateTime today = LocalDateTime.now();
         DateTimeFormatter formatter = DateTimeFormatter
                 .ofLocalizedDate(FormatStyle.FULL)
@@ -28,8 +29,6 @@ public class Info {
         System.out.println("Week days: "  + Arrays.toString(weekDays));
         System.out.println("Months: "  + Arrays.toString(months));
         System.out.println("Today: " + today.format(formatter));
-    }
-    public void printOtherInfo(Locale locale) {
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpGet httpGet = new HttpGet("http://www.oorsprong.org/websamples.countryinfo/CountryInfoService.wso/FullCountryInfo/JSON/debug?sCountryISOCode=" + locale.getCountry());
         try {
@@ -40,7 +39,6 @@ public class Info {
             while (scanner.hasNext()) {
                 responseBuilder.append(scanner.nextLine());
             }
-
             ObjectMapper mapper = new ObjectMapper();
             Map map = mapper.readValue(responseBuilder.toString(), Map.class);
 
